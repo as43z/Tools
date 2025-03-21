@@ -1,0 +1,7 @@
+cv_management_create.py
+setup.py
+cv_management_create.egg-info/PKG-INFO
+cv_management_create.egg-info/SOURCES.txt
+cv_management_create.egg-info/dependency_links.txt
+cv_management_create.egg-info/entry_points.txt
+cv_management_create.egg-info/top_level.txt
